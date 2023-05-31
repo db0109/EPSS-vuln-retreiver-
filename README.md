@@ -1,5 +1,5 @@
 **What is EPSS?**
-Epss is the exploit Prediction Scoring system. This score includes using CVSS information and other machine learning based on a CVE's attributes such as vendor and other information. this then gives an estimate on how likely a vulnerbility is to be exploited. This number can and will change over time. 
+Epss is the exploit Prediction Scoring system. This score includes using CVSS information and other machine learning based on a CVE's attributes such as vendor and type of exploit. To read the full white paper on the scoring system you can access it here https://arxiv.org/abs/1908.04856 
 
 
 # EPSS-vuln-retreiver-
